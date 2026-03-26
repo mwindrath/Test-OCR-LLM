@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Historical German Fraktur Newspaper Page</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digital transcription of historical newspaper page</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcribed from scanned newspaper page</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1200" lry="1800" type="estimated-coordinates">
+      <graphic url="newspaper_page.jpg" width="1200" height="1800"/>
+      <zone xml:id="col_1" type="column" ulx="60" uly="30" lrx="580" lry="1780">
+        <note type="iiif-region">60,30,520,1750</note>
+      </zone>
+      <zone xml:id="col_2" type="column" ulx="600" uly="30" lrx="1140" lry="1780">
+        <note type="iiif-region">600,30,540,1750</note>
+      </zone>
+      <zone xml:id="article_1" type="article" ulx="60" uly="30" lrx="580" lry="420">
+        <note type="iiif-region">60,30,520,390</note>
+      </zone>
+      <zone xml:id="article_2" type="article" ulx="60" uly="440" lrx="580" lry="1080">
+        <note type="iiif-region">60,440,520,640</note>
+      </zone>
+      <zone xml:id="heading_1" type="heading" ulx="100" uly="1080" lrx="540" lry="1120">
+        <note type="iiif-region">100,1080,440,40</note>
+      </zone>
+      <zone xml:id="article_3" type="article" ulx="60" uly="1120" lrx="580" lry="1780">
+        <note type="iiif-region">60,1120,520,660</note>
+      </zone>
+      <zone xml:id="article_4" type="article" ulx="600" uly="30" lrx="1140" lry="1780">
+        <note type="iiif-region">600,30,540,1750</note>
+      </zone>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article" facs="#article_1">
+        <p>General Pierce hat noch nicht gewagt, ihn abzusetzen, oder mit Gewalt von seinem höchsten Posten zu entfernen. Das Haupt der Mormonen sagt, er habe von Washington nicht die seine Vollmacht, denn er erhielte sein Amt direkt von Gott selbst und werde es halten, bis Gott ihm einen Nachfolger berufe; er habe also die Absicht, an uns von der Kanzel des Mormonentempels herab alsbatdlich diese Erklärung gegeben. Es ist, wie Mormonien melden, bereits so weit gekommen, daß zu 60,000 Seelen angewachsen sein, welche Zahl erfordert wird zur Erweite-rung und Aufrechterhaltung einer Hauptstadt als Sitzt im die Union. Mit diesem Ziel vor Augen trommelt Brigham Young jetzt aber intensive seinen Glaubensgenossen in allen Staaten her daran zusam-men, und schon seien über 50,000 unterwegs nach Utah hin. Nach Vereinigungshülfen sind noch etwa 42,000 bis 49,000 Mormonen im Territorium und auf seinen Reicht konnten noch 40,000 aus den andern Staaten und Union beigebracht werden. Im Schauwerte dieser wunderbaren Seite auf 60,000 in Unglans geschäht werden, außer vielen andern in Dänemark, Schweden und andern Ländern Europa's. Young macht fremdartte Anstalten zu dieser ungeheueren Einwanderung, welche ihm Morgenich nach seiner Meinung am Kansas ankam der Staaten ankam, er einet fertschilstenen, schönen und weißsühnlichen Gegend jenes großen Territoriums, welche ihm äußerlich die des Landes von Kanaan geprü-viasiren und einrühmen, beim Durchzuge durch die Wüscht Genen soll. Unverdrossenheit seit gestossen hatte Reist werden man hat sein Auge gerichtet auf eine der fruchtbaren Siedeltungen, die man er, sobald er sich Ansäß im Kanaa's erreicht hat es, unter dieser bergangene und koltsame Führer der Mormonen entließlich 18, seinen Staats zu subsumiren und die Macht der Regierung der Vereinigten Staaten herauszufordern.</p>
+      </div>
+      <div type="article" facs="#article_2">
+        <head>Vom Kriegsschauplatz.</head>
+        <p>Von Jasly schreibt man, daß das Gouvernement der Moldau die offizielle Kenntnis erhalten, daß her diesigen 100,009 Mann Setzt auf die Moldau zu rücken sind wovar auf Polna und Saltsji zu, gerade jene Linie, durch welche der tscherkessische Kriesdplan ins Auge gefaßt worden.</p>
+        <p>Der um 25 Dec. von Konstantinopel abgangene Garigas hat noch Marseille die Nachricht gebracht, daß fünf 18 Bataillone zu Eupatoria unter einer 85 andere Division und von 30,000 Mann gebracht ist, sollten die großen britishich-Unterbringungen beginnen. Die Belagerung-Batterien hatten nicht nachgelassen, Sebastie der ter 25tägige spätperste wieder eröffnet war. Das Wetter in boaster, die Schifffahrt setreich. Durch die drei Züchstlichen der Schiffennen geachtete neue Ansdehnung waren die Verbindungen und die Lebensmittel-Transporte zwischen dem russischen und den bei Balaklawa lagerenden russischen Armee Corps sehr sichtinlig geworden.</p>
+        <p>Der Pariser Monitor veröffentlicht eine Depesche des Admirals Hamelin, welcher Waffen auf Der Krim bei zum 22. Dec. bringt. Seit dem 23. Dec. waren 0870 Mann zur Berthstung des französischen Armee's in Kamietsch eingetroffen. Die Post in meiteren Belt mit drei Nadst Ausfsätze, würden aber stets kräftig zurückgeschlagen.</p>
+        <p>Die neuesten Berichte be beltärten, daß vom türkischen Corps unter Omer Patscha 12,000 Mann bereiß für die Krins einge-schifft seyen, um das Ueberlassene an das Kränte von 9000 Türken in türkischer Zeit nachvollziehen lassen. In Transportmitteln über See war Ueberstand vorhanden. So war das Loch, daß es der Ueberstattung-seit der Verstärkung in der Krim seine neuen Truppenfendungen von Seiten der Berübrtesten gegen weitere machen, halte man nicht die Götder, mit allem Ernst einen vollständigen Feldzug dasteht zu beginnen. Bis Generalitz hat sie französische und englische Grade auf die englische Armée des selbständigen Obertesst führt, wird aufs Omer Patscha wird Gemundsschaft über die türkischen Zeitssische in der Krim unter eigener Verantwortung führen. Ismant Patscha, der neue Commendant der Donau-Armée ist bereits in seinen Bestimmungen abgegangen. Der Betrift über die anatolitche Armée wird statt seiner Admiral Patscha übernommen.</p>
+      </div>
+      <div type="article" facs="#article_3">
+        <head>Türkische Länder unter russischer Herrschaft.</head>
+        <p>(Fortsetzung.)</p>
+        <p>Das heutige Gouvernement Grusien wurde zuerst eigentlich is ermöglicht Weise entdeckert, da dort die harte und überdrichte Horde Avsiaan vollenden das Lante besteht, bis es die Beseitzerung des ausgedehnten Gouvernements (1332 Quakmeitten) esh in nah gehärtet, das aus der Georgien an den Mongolei heute, und steht die neuzeiten mit verleigerten Abgaben (aus 1805 und 1811) oder einzige Bereitstellung aus 600 Seelen für die Duoviratelise sind sind gleich-webt selbst durchsichtig abgetreten. De Sorte Jemaikisch, dritte vom Ephem, liegt zum größern Theil in ihrer Stilgit; aber auch der Krim wanderte ungültig eine christliche Bürgerlichkeit und, haltlo nach Mittellich in der von den Scherkessen. Vor der russischen Besitzverarbeitung leben auf der heiligen Insel 200 Million Menichen; die der festliche Zählung (im Jahre 1793) ergab eine Bevölkerung von 157,133 Seelen, mit Einschluß der eingeranderen Rassen, und</p>
+      </div>
+      <div type="article" facs="#article_4">
+        <p>ungeachtet der starken Kolonialisation gehört das taurische Gouvernement noch heute zu den undichtberannten Landsrtchen Europa's. Im Jahre 1792 besteht hier eine Bevölkerung von 209,110, im Jahre 1842 sie eine reali-sten Angabe 492, im Jahre 1851 ebenfalls nach einglichen Quellen 572 Besewohner auf der Gouvernnende.</p>
+        <p>Man kann also sagen, daß die erste Wüstung der russischen Besitz-ergentung um eine fast vollständigen Austretteterung des wahren Länd-berlant, welche das frühliche Klama gesterzt hatten. Die Surcht vor der Absdehrung der Mütter, war beim Schwungernamen alier Männen, vor einer gewaltsamen Fortführung in serne Grenchen, reichen unter die einzelnen. Gemeinden übergriff, es begann um, daß Rechnung der Krins ein abschredendes Geibspiel bei, war den des Tatfaren in überrassung, daß es zu erwurten, weit dem Berichte der Russen, so weit ist möglich war, mit der beweigende Habe in ihren Wundertässen zu flüchten, und die Landschaft, dem Umtaunung des frühlichen Kanners be-reichesten, die witliche Berlesetungs, das gleichen Zehntel der Herrschaft lössten von Knigkräig der Königfanten vollzahmen und erhielt.</p>
+        <p>In Folge oder Unternehmung eine gänstichen Unentsinderung eingegangen wideres, sotz Enterlassung er Besitung ein geisterte Klüftige program zu confisceren und weiter zu entdeichen. Aber eine solche Küchtige liegt nicht nur in militärisch Charaktere und ist nicht übergeben ist an den guten des sich selbst anständenden ist rot, und solgt, ohne an die cigene Zukunst zu denken, eine mehr oder vernünftigen Zeithindentlichen. Haben die nördlichen Truppen tannen, verdeutchen sie die zittiersten Päandsteien, schädigen die mit am Mußvereinzu die Kamäle und am wenigsten geferschen sie weisen aus Ausländsten, diese neulichen, schatterneichen Oasen sammeln einer kommentaren Steppe. Doth ist das traurige Schanhänt mit am-reichert dagegeben, wo die macedonischen Heere einige Zeit verweilt haben. Eine solche mann nur noch Königlich anständisch ist. Durch das Donausischer, seit es von der Wüstlick schwinglicher Gänden geschehen, zur Stadt das Zerleidermörtteil im das allziehend Osfertäger, wie auch sie Repfel, Bienen, Pfirsiche, Apfelosen und besonders die Türken diese Gegenßen erzeugen in der Konfession genalern in dem Maße, der als die nördliche Inteln in Taushand stehen, verlaschen die Reitligten tanta-tilischen Dörfer und Land, und mit ihnen jede spur der erhalichen Merkwilege bedaut ihnen, und die Losaken batten in kurzer Zeit ständische Gewohnungen hören und Brennung sie in die Asche zur ze-nemmen. Mit gleicher Begeher würde im Osten, jenseits der Zeräge vom Tscherkau, im Octe des Zamans und dermals an die Zeit berschre Grantzbauer, die eine türkische Inlandschäge bestanden den von der Stadt Zaman genannß bis zum Zubanskoi-Schetschok in dem jenseits lieg und ungeblich in den mögigen höhern in Jahre 1793 ge-ruven verkutzen; unisten dem anlebst genannten Beretten bilden dem Eisen erauchsten noch 3 aus Toteren überetrennen, die unter täristlicher Haltenden Händen verguladenden urtatssischen Städten. Ferner können Aufentungsleiten man eine schönste Ausisicht auf das kaufesische Gebirge erhalten. Jetzt herrscht in höhen Gegeinissen eine Wacht genannten: Die Weingärten waren von den türkischen Losaken gestistet, die Gärten der Schiestsen in Blumen und Obste Reichen ausgewen-der worden, und aus der Auskunst des Verfiogs von Motrem sogte der Vernichtungs-Krieg. Aber in einer Umstrickumwen Begeiation hah dem Genersich bezeuß die unversichtliche Steppernakur durchgericht; so daß sie des verlänchlich, in Schenkt einem allgemeinen zer-schtat, der früher durch die die Verautruppen gerunndene Aushang ist ent-gestellt, das gän und ein Berruf über ein durch die modernem Absichtetten gedacht. Die unerstattdige, im Jahre 1922 erbeulle Ko-che vom Zamoli, im Gestalt der Begrössung, welche die Stadt von Zanlern um den Mügesten die Gouvernent Grasien bildet, ist in dem Gericht-Zeit unverweisbar worden, liegt in Folge ihrer Lage einen ge-mann Werßstäts über sie vernissen Ansichter ist des Malheitsgewerben sobald das Land von Taurmen entblößt war, stieg der von Osten ungehindert aufreiszendes Sand weiter und weiter hinein in das Land und, das daß fünst Danolds der Monteperte eine vollständige Verwandung sürch-tette, und man Damis im Jahre 1837 die Halbinsel erfordeden, hatte der Sand in der That die Höhe der Mauer erstracht. So haben über wenig Jahre hingesuchte Unterscheide, alte Versäumnisse des Lanoles herauffehläuten, die alter häustigen Meßerzungen zur Hebung der Kulten führten nichts wo die Steppe stimml zur Herrschaft gelanst ist, zeigt sie eine unbitteitliche Darreichlichkast.</p>
+        <p>Auch im Krim entsstehende russische Herrschaft, Thätigkait. Zeuge dessen sind die zahlreichen unfrüchten Wästen, auf denen nun die neuen Kolonisten gestetsten sind; das tief einsänkere Terrain, daße in Hafen zur Zeit der Tatatschen-Herrschaft so zerstörsttland von 50 Schiffen besocht wurde; das verlassene Cöfferstirn, und das manche versammte Bäste, zu dem nun noch ein Schiffsstadel hat. Thast-gebs eines einigen Winters, während iesten zwei russische Regimenter es campieren, da einige hohe Esthebungen, welche die Seele in Täusten so werts gelacht hatte, vollständig ausgetrennet: die Bilgat, welche Kassa einen ausföhrlichen ländigen fest und durch Kriege hingter darin bandetteten, habe noch die zum teutigen Tage treellos und kahl, und die weisföhrliche, für den eingehaltden Wart-Werth zahlungsträchtlich und nöthigste durch zählsode Kanäle verständig zur Bewässerung der Acker betracht wurden. Löwowins sieht es so verzauktisch halte sie vom Gericht und den vertechenden Jünmmen die lezte Spur fort von der thema-ligen Größe der berühmten Handelsstadt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
